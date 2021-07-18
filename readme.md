@@ -32,3 +32,7 @@ You can launch in your terminal
 
 - `make playground`
 - `python simple_request.py`
+
+## Problems with keras.models.load_model
+
+[has-no-attribute-populate_dict_with_module_objects](https://jayanthkurup.com/keras-utils-generic_utils-has-no-attribute-populate_dict_with_module_objects/) 
